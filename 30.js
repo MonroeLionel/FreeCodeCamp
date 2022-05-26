@@ -6,4 +6,5 @@ Set myName to a string equal to your name and build myStr with myName between th
 
 // Only change code below this line
 const myName = "vasan";
-const myStr = "My name is " + myName + " and I am well!";;
+
+const myStr = "My name is " + myName + " and I am well!";
